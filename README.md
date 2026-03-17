@@ -16,4 +16,6 @@ Solution to download games from Emuparadise in 2026.
 emuparadise fix, download roms, retro games, mame download
 ## 🎮 Preview
 
-![preview](preview.png)
+<p align="center">
+  <img src="preview.png" width="700"/>
+</p>
